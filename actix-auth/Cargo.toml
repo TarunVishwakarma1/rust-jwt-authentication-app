@@ -6,4 +6,4 @@ edition = "2021"
 [dependencies]
 actix-web = "4.10.2"
 serde_json = "1.0.140"
-jwt_lib = { path = "../jwt-lib" }
+jwt-lib = { path = "../jwt-lib" }

@@ -7,4 +7,4 @@ edition = "2021"
 axum = "0.8.3"
 serde_json = "1.0.140"
 tokio = { version = "1.44.2", features = ["full"] }
-jwt_lib = { path = "../jwt-lib" }
+jwt-lib = { path = "../jwt-lib" }
