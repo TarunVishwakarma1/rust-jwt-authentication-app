@@ -1,0 +1,1 @@
+fn(Json<{type error}>) -> impl Future<Output = Response<std::string::String>> {get_token_handler}
